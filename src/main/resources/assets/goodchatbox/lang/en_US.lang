@@ -1,0 +1,33 @@
+letterE.easteregg=You found me, go to http://rph.space/alternate.html
+
+// items
+item.t1microchiparray.name=Microchip array (Tier 1)
+item.t1microchipcard.name=Microchip card (Tier 1)
+item.t2microchiparray.name=§eMicrochip array (Tier 2)§r
+item.t2microchipcard.name=§eMicrochip card (Tier 2)§r
+item.t3microchiparray.name=§bMicrochip array (Tier 3)§r
+item.t3microchipcard.name=§bMicrochip card (Tier 3)§r
+item.combineddiamond.name=Combined Diamond
+item.combinedepearl.name=Combined Ender Pearl
+item.combinedobsidian.name=Combined Obsidian
+item.denselycombineddiamond.name=Dense Combined Diamond
+item.denselycombinedepearl.name=Dense Combined Ender Pearl
+item.denselycombinedobsidian.name=Dense Combined Obsidian
+itemGroup.GoodChatbox=Good Chatbox Mod
+
+// blocks
+
+tile.chatboxcreative.name=§5Creative Chatbox§r
+tile.chatboxt1.name=Basic Chatbox (Tier 1)§r
+tile.chatboxt2.name=Basic Chatbox (Tier 2)§r
+tile.chatboxt3.name=Basic Chatbox (Tier 3)§r
+tile.chatboxt4.name=§eAdvanced Chatbox (Tier 1)§r
+tile.chatboxt5.name=§eAdvanced Chatbox (Tier 2)§r
+tile.chatboxt6.name=§eAdvanced Chatbox (Tier 3)§r
+tile.chatboxt7.name=§eAdvanced Chatbox (Tier 4)§r
+tile.chatboxt8.name=§bElite Chatbox (Tier 1)§r
+tile.chatboxt9.name=§bElite Chatbox (Tier 2)§r
+tile.chatboxt10.name=§bElite Chatbox (Tier 3)§r
+tile.chatboxt11.name=§bElite Chatbox (Tier 4)§r
+tile.chatboxt12.name=§bElite Chatbox (Tier 5)§r
+tile.chatboxt13.name=§bElite Chatbox (Tier 6)§r
