@@ -1,10 +1,3 @@
-/*
-    DO NOT MODIFY THIS FILE UNLESS YOU ARE 100% SURE WHAT YOU ARE DOING
-    I DONT EXACTLY KNOW WHY IT WORKS
-    BUT IT DOES
- */
-
-
 package space.rph.goodchatbox.util;
 
 import net.minecraft.event.ClickEvent;
